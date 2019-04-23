@@ -1,3 +1,6 @@
+# udemy u31
+# https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/learn/lecture/7876634#overview
+
 import numpy as np
 import tensorflow as tf
 import pandas as pd
